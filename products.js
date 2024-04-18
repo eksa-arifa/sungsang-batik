@@ -38,7 +38,7 @@ const products = [
         id:6,
         name:'Batik',
         img:'batik/Picture(5).png',
-        price: 'Rp.1.500.000,00',
+        price: 'Rp.800.000,00',
         terjual: '348'
     },
     {
@@ -52,14 +52,14 @@ const products = [
         id:8,
         name:'Batik',
         img:'batik/Picture(7).png',
-        price: 'Rp.1.500.000,00',
+        price: 'Rp.800.000,00',
         terjual: '654'
     },
     {
         id:9,
         name:'Batik',
         img:'batik/Picture(8).png',
-        price: 'Rp.1.500.000,00',
+        price: 'Rp.800.000,00',
         terjual: '2045'
     },
 ]
